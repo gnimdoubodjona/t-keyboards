@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Thrown"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex labore sunt tempor laboris deserunt. Veniam eiusmod culpa reprehenderit reprehenderit duis consequat nulla consequat adipisicing."
+						}
+					}
+				]
+			},
+			"buy_button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "worth",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
