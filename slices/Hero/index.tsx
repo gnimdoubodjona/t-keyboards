@@ -26,7 +26,7 @@ const Hero: FC<HeroProps> = ({ slice }) => {
 
       <div className="hero-scene sticky pointer-events-none top-0 h-dvh w-full ">
         {/* canvas goes here */}
-        <Canvas>
+        <Canvas shadows="soft">
           <Scene />
         </Canvas>
       </div>
